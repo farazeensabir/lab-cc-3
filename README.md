@@ -1,11 +1,1 @@
 # lab-cc-3
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Cloud Lab Website</title>
-</head>
-<body>
-    <h1>Cloud Computing Lab 03</h1>
-    <p>Website deployed using Netlify.</p>
-</body>
-</html>
